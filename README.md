@@ -27,7 +27,7 @@
 [![](https://komarev.com/ghpvc/?username=rafaelcepabe-cpu&icon=6&color=4)](https://visitcount.itsvg.in)
 
 
-
+<img src="https://raw.githubusercontent.com/rafaelcepabe-cpu/rafaelcepabe-cpu/output/snake.svg" alt="Snake animation" />
 
 
 
