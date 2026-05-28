@@ -26,9 +26,8 @@
 ## 🐍 Snake Contributions
 
 <p align="center">
-  <img src="https://github.com/rafaelcepabe-cpu/rafaelcepabe-cpu/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/rafaelcepabe-cpu/rafaelcepabe-cpu/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 
 ---
