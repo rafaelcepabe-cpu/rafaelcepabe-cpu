@@ -1,4 +1,4 @@
-#👋 Olá, eu sou Rafael Rodrigues
+# 👋 Olá, eu sou Rafael Rodrigues
 
 💻 Estudante e entusiasta da área de Tecnologia da Informação, com foco em desenvolvimento de software, análise de dados e suporte técnico.
 
