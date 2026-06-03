@@ -4,20 +4,6 @@
 
 Atualmente estou aprimorando minhas habilidades em Python, Power BI e Programação Orientada a Objetos (POO), desenvolvendo projetos práticos para fortalecer meus conhecimentos e construir um portfólio sólido.
 
-## 📊 Projetos em Destaque
-🚗 Sistema de Cadastro de Carros em Python (POO)
-🐾 Sistema de Cadastro de Animais em Python
-📈 Dashboard de Vendas no Power BI
-🔗 Projetos de automação e manipulação de dados
-
-## 🎯 Objetivos
-Busco oportunidades para desenvolver minhas habilidades na área de tecnologia, contribuindo com soluções práticas e aprendendo continuamente novas ferramentas e metodologias.
-
-## 📫 Contato
-LinkedIn: (www.linkedin.com/in/rafael-rodrigues-28559a383)
-E-mail: (rafael.cepabe@gmail.com)
-
-
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,6 +14,22 @@ E-mail: (rafael.cepabe@gmail.com)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 📊 Projetos em Destaque
+🚗 Sistema de Cadastro de Carros em Python (POO)
+🐾 Sistema de Cadastro de Animais em Python
+📈 Dashboard de Vendas no Power BI
+🔗 Projetos de automação e manipulação de dados
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rafaelcepabe-cpu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rafaelcepabe-cpu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafaelcepabe-cpu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🎯 Objetivos
+Busco oportunidades para desenvolver minhas habilidades na área de tecnologia, contribuindo com soluções práticas e aprendendo continuamente novas ferramentas e metodologias.
+
 
 ## 🐍 Snake Contributions
 
@@ -36,11 +38,11 @@ E-mail: (rafael.cepabe@gmail.com)
 </p>
 
 
+## 📫 Contato
+LinkedIn: (www.linkedin.com/in/rafael-rodrigues-28559a383)
+E-mail: (rafael.cepabe@gmail.com)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rafaelcepabe-cpu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rafaelcepabe-cpu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafaelcepabe-cpu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
